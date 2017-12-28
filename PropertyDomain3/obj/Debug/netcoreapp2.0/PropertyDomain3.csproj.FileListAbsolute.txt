@@ -1,0 +1,11 @@
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\bin\Debug\netcoreapp2.0\PropertyDomain3.deps.json
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\bin\Debug\netcoreapp2.0\PropertyDomain3.dll
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\bin\Debug\netcoreapp2.0\PropertyDomain3.pdb
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\bin\Debug\netcoreapp2.0\SharedKernel.dll
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.csprojResolveAssemblyReference.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.csproj.CoreCompileInputs.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.AssemblyInfoInputs.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.AssemblyInfo.cs
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.dll
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain3\obj\Debug\netcoreapp2.0\PropertyDomain3.pdb

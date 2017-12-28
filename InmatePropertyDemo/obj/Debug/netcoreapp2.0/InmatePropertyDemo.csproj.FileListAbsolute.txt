@@ -1,0 +1,11 @@
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\bin\Debug\netcoreapp2.0\InmatePropertyDemo.deps.json
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\bin\Debug\netcoreapp2.0\InmatePropertyDemo.runtimeconfig.json
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\bin\Debug\netcoreapp2.0\InmatePropertyDemo.runtimeconfig.dev.json
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\bin\Debug\netcoreapp2.0\InmatePropertyDemo.dll
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\bin\Debug\netcoreapp2.0\InmatePropertyDemo.pdb
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.csprojResolveAssemblyReference.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.csproj.CoreCompileInputs.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.AssemblyInfoInputs.cache
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.AssemblyInfo.cs
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.dll
+C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\InmatePropertyDemo\obj\Debug\netcoreapp2.0\InmatePropertyDemo.pdb
