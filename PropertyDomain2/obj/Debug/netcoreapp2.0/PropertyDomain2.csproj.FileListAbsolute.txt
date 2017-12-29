@@ -9,3 +9,14 @@ C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\ne
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.AssemblyInfo.cs
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.dll
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.pdb
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\bin\Debug\netcoreapp2.0\PropertyDomain2.deps.json
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\bin\Debug\netcoreapp2.0\PropertyDomain2.dll
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\bin\Debug\netcoreapp2.0\PropertyDomain2.pdb
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\bin\Debug\netcoreapp2.0\SharedKernel.dll
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.csproj.CoreCompileInputs.cache
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.AssemblyInfoInputs.cache
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.AssemblyInfo.cs
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.dll
+C:\Projects\Sandbox\InmatePropertyDemo\PropertyDomain2\obj\Debug\netcoreapp2.0\PropertyDomain2.pdb

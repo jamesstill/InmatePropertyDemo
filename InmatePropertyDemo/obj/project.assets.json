@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PublicSafety\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\InmatePropertyDemo.csproj",
+      "projectUniqueName": "C:\\Projects\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\InmatePropertyDemo.csproj",
       "projectName": "InmatePropertyDemo",
-      "projectPath": "C:\\Projects\\PublicSafety\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\InmatePropertyDemo.csproj",
+      "projectPath": "C:\\Projects\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\InmatePropertyDemo.csproj",
       "packagesPath": "C:\\Users\\stillj\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PublicSafety\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\obj\\",
+      "outputPath": "C:\\Projects\\Sandbox\\InmatePropertyDemo\\InmatePropertyDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

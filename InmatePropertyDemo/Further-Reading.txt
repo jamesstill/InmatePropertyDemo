@@ -1,0 +1,28 @@
+﻿Domain-Driven Design Further Reading
+====================================
+
+Books:
+------------------------------------
+
+Domain-Driven Design by Eric Evans (The Bible)
+
+Patterns, Principles and Practices of Domain-Driven Design by Scott Millett
+
+Implementing Domain-Driven Design by Vaugn Vernon
+
+White Papers
+-------------------------------------
+
+Vernon's 3-Part Series on Effective Aggregate Design:
+
+Part 1: http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf
+Part 2: http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf
+Part 3: http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_3.pdf
+
+
+Code:
+--------------------------------------
+
+Official DDD Sample App: https://github.com/citerus/dddsample-core (Java)
+
+

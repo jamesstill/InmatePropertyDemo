@@ -7,3 +7,12 @@ C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netco
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.AssemblyInfo.cs
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.dll
 C:\Projects\PublicSafety\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.pdb
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.deps.json
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.dll
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.AssemblyInfo.cs
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.dll
+C:\Projects\Sandbox\InmatePropertyDemo\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.pdb
